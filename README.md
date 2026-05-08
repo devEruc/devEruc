@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello!
 
-<!--
-**devEruc/devEruc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm eruc a developer of videogames and scripter of python.
+I have two year of experience in python
 
-Here are some ideas to get you started:
+-# I didn't learn much :P
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### TOOLS
+
+back up - GIT
+video games - GODOT
+programming language - python
+
+## somethings of me
+
+I'm very stupid🐕
