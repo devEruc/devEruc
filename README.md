@@ -3,7 +3,7 @@
 I'm eruc a developer of videogames and scripter of python.
 I have two year of experience in python
 
--# I didn't learn much :P
+I didn't learn much :P
 
 ### TOOLS
 
